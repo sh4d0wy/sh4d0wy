@@ -17,7 +17,7 @@ Hello there! Welcome to my GitHub profile. I'm passionate about open source, cod
 ## Get in Touch
 
 - Email: sakshambhugra8@gmail.com
-- LinkedIn: [Your LinkedIn Profile]([https://www.linkedin.com/in/saksham-bhugra-a55980249])
-- Twitter: [@YourTwitterHandle](https://twitter.com/SakshamBhugra)
+- LinkedIn: [Saksham Bhugra](https://www.linkedin.com/in/saksham-bhugra-a55980249)
+- Twitter: [@SakshamBhugra](https://twitter.com/SakshamBhugra)
 
 Thank you for visiting my GitHub profile!
