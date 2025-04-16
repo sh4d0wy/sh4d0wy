@@ -5,19 +5,40 @@
 [![Total Contributions](https://img.shields.io/badge/Total%20Contributions-XXX-brightgreen)](https://github.com/sh4d0wy)
 [![Total Repositories](https://img.shields.io/badge/Total%20Repositories-XXX-blue)](https://github.com/sh4d0wy?tab=repositories)
 
-Hello there! Welcome to my GitHub profile. I'm passionate about open source, coding, and building cool projects. Feel free to explore my repositories, contribute to my projects, or connect with me!
+Hey! I'm **Saksham Bhugra**, a full-stack Web3 developer passionate about decentralization, digital ownership, and pushing the boundaries of what’s possible with blockchain tech. 🚀
 
-## About Me
+Feel free to explore my repositories, fork something cool, or reach out to collaborate!
 
-- 🚀 Software Developer
-- 💻 Tech Enthusiast
-- 🌱 Lifelong Learner
-- 📫 You can reach me at sakshambhugra8@gmail.com
-  
-## Get in Touch
+---
 
-- Email: sakshambhugra8@gmail.com
-- LinkedIn: [Saksham Bhugra](https://www.linkedin.com/in/saksham-bhugra-a55980249)
-- Twitter: [@SakshamBhugra](https://twitter.com/SakshamBhugra)
+## 🧠 About Me
 
-Thank you for visiting my GitHub profile!
+- 🛠️ Full-Stack Web3 Developer | Blockchain Engineer  
+- 🧾 Creator of **XFIInsure** – A DeFi insurance protocol on the **Crossfi Chain**  
+- 🥇 Winner of the **CrossFi Evolution Hackathon** 
+- 🧬 Built **InMail Treasury**, an AI + Web3 invoicing and payments platform using **Request Network**  
+- 🧑‍⚖️ Architected a novel **P2P HTLC-based swapping mechanism** without AMMs  
+- 🔐 Working with tools like **Safe SDK**, **Axelar**, **World ID**, and **Silk Wallet** for secure, seamless dApp UX  
+- 🌎 Exploring onchain games, decentralized finance, on-chain identity, and social-powered payments
+
+---
+
+## ⚒️ Tech Stack
+
+- **Languages**: TypeScript, JavaScript, Solidity, Java, Python  
+- **Frameworks**: Next.js, React, Spring Boot, Hardhat, Express  
+- **Web3 Libraries**: Wagmi, Viem, Ethers.js, ConnectKit, Request Network SDK, Safe SDK  
+- **Infra & Tooling**: IPFS, Axelar, Holonym, Silk SDK, World ID, Graph Protocol  
+- **Chains**: Crossfi, Ethereum, TON, Polygon, Base, Arbitrum
+
+---
+
+## 🌐 Get in Touch
+
+- 📧 Email: sakshambhugra8@gmail.com  
+- 💼 LinkedIn: [Saksham Bhugra](https://www.linkedin.com/in/saksham-bhugra-a55980249)  
+- 🐦 Twitter: [@SakshamBhugra](https://twitter.com/SakshamBhugra)
+
+---
+
+Thanks for stopping by. Let’s build the future of Web3, one commit at a time. 🛠️🌍
